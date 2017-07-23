@@ -8,3 +8,4 @@
 7. Test Formality
 8. Test Scenario
 9. Test Case Design
+10. Automation Testing
